@@ -35,5 +35,6 @@ A project for development of recommendation system for Unstop platform to enhanc
 > [Detailed Deck Submission Round](https://github.com/Rishikumar7137/Unstop-Talent-Park-PS1/blob/main/Submissions/Part%20II%20-%20Enhancing%20Talent%20Engagement%20and%20Hiring%20Efficiency.pptx)
 
 ## Code Files
-> Last updated model and its output
+> Last updated model and its output 
+> 
 > [Recommendation System](https://github.com/Rishikumar7137/Unstop-Talent-Park-PS1/blob/main/recommendation_system.ipynb)
