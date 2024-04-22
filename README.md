@@ -1,6 +1,8 @@
 # Unstop-Talent-Park-PS1
 A project for development of recommendation system for Unstop platform to enhance talent engagement using EDA and improve hiring efficiency through Machine Learning model
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRishikumar7137%2FUnstop-Talent-Park-PS1&label=VISITORS&countColor=%23f47373&style=plastic&labelStyle=upper)
+
 ## Problem Statements
 
 [Problem Statement](https://github.com/Rishikumar7137/Unstop-Talent-Park-PS1/tree/main/Problem-Statements)
