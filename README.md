@@ -31,9 +31,12 @@ A project for development of recommendation system for Unstop platform to enhanc
 ## Submissions
 
 ### Round I
-> [Executive Summary Round](https://github.com/Rishikumar7137/Unstop-Talent-Park-PS1/blob/main/Submissions/Enhancing%20Talent%20Engagement%20and%20Hiring%20Efficiency.pdf)
+> First round was a Coding + MCQ round.
 
 ### Round II
+> [Executive Summary Round](https://github.com/Rishikumar7137/Unstop-Talent-Park-PS1/blob/main/Submissions/Enhancing%20Talent%20Engagement%20and%20Hiring%20Efficiency.pdf)
+
+### Round III
 > [Detailed Deck Submission Round](https://github.com/Rishikumar7137/Unstop-Talent-Park-PS1/blob/main/Submissions/Part%20II%20-%20Enhancing%20Talent%20Engagement%20and%20Hiring%20Efficiency.pptx)
 
 ## Code Files
